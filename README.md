@@ -40,39 +40,38 @@
 
 ## Screenshots
 
-### 📱 Dashboard & 💬 WhatsApp Bot & 🖥️ Admin Panel
-<p float="left">
-  <img src="screenshots/mobileVesrion.png" width="200"/>
-  <img src="screenshots/botDark.png" width="200"/>
-  <img src="screenshots/panel1.png" width="200"/>
-</p>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+
+| |
+|:---:|
+| **📱 Dashboard** |
+| <img src="screenshots/mobileVesrion.png" width="150"/> |
+
+| |
+|:---:|
+| **💬 WhatsApp Bot** |
+| <img src="screenshots/botDark.png" width="150"/> |
+
+| |
+|:---:|
+| **🖥️ Admin Panel** |
+| <img src="screenshots/panel1.png" width="150"/> |
+
+</div>
 
 <details>
 <summary><b>View more screenshots...</b></summary>
 
-### 🖥️ Admin Panel - Light
-<img src="screenshots/panel1.png" width="200"/>
-
-### 🖥️ Admin Panel - Dark
-<img src="screenshots/panelDark.png" width="200"/>
-
-### 📦 Products - Light
-<img src="screenshots/productos.png" width="200"/>
-
-### 📦 Products - Dark
-<img src="screenshots/productosDark.png" width="200"/>
-
-### 📋 Orders - Light
-<img src="screenshots/pedidos.png" width="200"/>
-
-### 📋 Orders - Dark
-<img src="screenshots/pedidosDark.png" width="200"/>
-
-### 💰 Sales - Light
-<img src="screenshots/ventas.png" width="200"/>
-
-### 💰 Sales - Dark
-<img src="screenshots/ventasDark.png" width="200"/>
+| Light Mode | Dark Mode |
+|:---:|:---:|
+| <img src="screenshots/panel1.png" width="150"/> | <img src="screenshots/panelDark.png" width="150"/> |
+| **Admin Panel** | **Admin Panel** |
+| <img src="screenshots/productos.png" width="150"/> | <img src="screenshots/productosDark.png" width="150"/> |
+| **Products** | **Products** |
+| <img src="screenshots/pedidos.png" width="150"/> | <img src="screenshots/pedidosDark.png" width="150"/> |
+| **Orders** | **Orders** |
+| <img src="screenshots/ventas.png" width="150"/> | <img src="screenshots/ventasDark.png" width="150"/> |
+| **Sales** | **Sales** |
 
 </details>
 
