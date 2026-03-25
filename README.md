@@ -40,24 +40,9 @@
 
 ## Screenshots
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-
-| |
-|:---:|
-| **📱 Dashboard** |
-| <img src="screenshots/mobileVesrion.png" width="150"/> |
-
-| |
-|:---:|
-| **💬 WhatsApp Bot** |
-| <img src="screenshots/botDark.png" width="150"/> |
-
-| |
-|:---:|
-| **🖥️ Admin Panel** |
-| <img src="screenshots/panel1.png" width="150"/> |
-
-</div>
+| 📱 Dashboard | 💬 WhatsApp Bot | 🖥️ Admin Panel |
+|:---:|:---:|:---:|
+| <img src="screenshots/mobileVesrion.png" width="150"/> | <img src="screenshots/botDark.png" width="150"/> | <img src="screenshots/panel1.png" width="150"/> |
 
 <details>
 <summary><b>View more screenshots...</b></summary>
