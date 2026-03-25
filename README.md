@@ -40,10 +40,11 @@
 
 ## Screenshots
 
-### 📱 Dashboard & 💬 WhatsApp Bot
+### 📱 Dashboard & 💬 WhatsApp Bot & 🖥️ Admin Panel
 <p float="left">
   <img src="screenshots/mobileVesrion.png" width="200"/>
   <img src="screenshots/botDark.png" width="200"/>
+  <img src="screenshots/panel1.png" width="200"/>
 </p>
 
 <details>
