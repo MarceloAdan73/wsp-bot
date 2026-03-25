@@ -40,39 +40,18 @@
 
 ## Screenshots
 
-### Dashboard (Mobile Version)
-<p align="center">
-  <img src="screenshots/mobileVesrion.png" alt="Dashboard Mobile" width="300">
-</p>
-
-### Admin Panel
-
-| Light Mode | Dark Mode |
-|------------|-------------|
-| ![Light Panel](screenshots/panel1.png) | ![Dark Panel](screenshots/panelDark.png) |
-
-### Products
-
-| Light Mode | Dark Mode |
-|------------|-------------|
-| ![Light Products](screenshots/productos.png) | ![Dark Products](screenshots/productosDark.png) |
-
-### Orders
-
-| Light Mode | Dark Mode |
-|------------|-------------|
-| ![Light Orders](screenshots/pedidos.png) | ![Dark Orders](screenshots/pedidosDark.png) |
-
-### Sales
-
-| Light Mode | Dark Mode |
-|------------|-------------|
-| ![Light Sales](screenshots/ventas.png) | ![Dark Sales](screenshots/ventasDark.png) |
-
-### WhatsApp Bot (Dark Mode)
-<p align="center">
-  <img src="screenshots/botDark.png" alt="Bot Dark" width="400">
-</p>
+| | |
+|---|---|
+| **Dashboard** | **WhatsApp Bot** |
+| ![Dashboard](screenshots/mobileVesrion.png) | ![Bot](screenshots/botDark.png) |
+| **Admin Panel** | |
+| ![Panel](screenshots/panel1.png) | |
+| **Products** | |
+| ![Products](screenshots/productos.png) | |
+| **Orders** | |
+| ![Orders](screenshots/pedidos.png) | |
+| **Sales** | |
+| ![Sales](screenshots/ventas.png) | |
 
 ---
 
