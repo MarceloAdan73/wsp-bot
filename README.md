@@ -40,11 +40,11 @@
 
 ## Screenshots
 
-### 📱 Dashboard
-<img src="screenshots/mobileVesrion.png" width="200"/>
-
-### 💬 WhatsApp Bot
-<img src="screenshots/botDark.png" width="200"/>
+### 📱 Dashboard & 💬 WhatsApp Bot
+<p float="left">
+  <img src="screenshots/mobileVesrion.png" width="200"/>
+  <img src="screenshots/botDark.png" width="200"/>
+</p>
 
 <details>
 <summary><b>View more screenshots...</b></summary>
