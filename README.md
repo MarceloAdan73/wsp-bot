@@ -40,18 +40,35 @@
 
 ## Screenshots
 
-| | |
-|---|---|
-| **Dashboard** | **WhatsApp Bot** |
-| ![Dashboard](screenshots/mobileVesrion.png) | ![Bot](screenshots/botDark.png) |
-| **Admin Panel** | |
-| ![Panel](screenshots/panel1.png) | |
-| **Products** | |
-| ![Products](screenshots/productos.png) | |
-| **Orders** | |
-| ![Orders](screenshots/pedidos.png) | |
-| **Sales** | |
-| ![Sales](screenshots/ventas.png) | |
+### Dashboard
+![Dashboard](screenshots/mobileVesrion.png)
+
+### WhatsApp Bot
+![Bot](screenshots/botDark.png)
+
+### Admin Panel - Light
+![Panel Light](screenshots/panel1.png)
+
+### Admin Panel - Dark
+![Panel Dark](screenshots/panelDark.png)
+
+### Products - Light
+![Products](screenshots/productos.png)
+
+### Products - Dark
+![Products Dark](screenshots/productosDark.png)
+
+### Orders - Light
+![Orders](screenshots/pedidos.png)
+
+### Orders - Dark
+![Orders Dark](screenshots/pedidosDark.png)
+
+### Sales - Light
+![Sales](screenshots/ventas.png)
+
+### Sales - Dark
+![Sales Dark](screenshots/ventasDark.png)
 
 ---
 
