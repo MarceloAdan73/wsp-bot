@@ -1,0 +1,17 @@
+[
+  {
+    "id": "mujer",
+    "name": "Mujer",
+    "icon": "👗"
+  },
+  {
+    "id": "hombre",
+    "name": "Hombre",
+    "icon": "👔"
+  },
+  {
+    "id": "ninos",
+    "name": "Niños/as",
+    "icon": "🧒"
+  }
+]
