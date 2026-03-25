@@ -42,20 +42,20 @@
 
 | 📱 Dashboard | 💬 WhatsApp Bot | 🖥️ Admin Panel |
 |:---:|:---:|:---:|
-| <img src="screenshots/mobileVesrion.png" width="150"/> | <img src="screenshots/botDark.png" width="150"/> | <img src="screenshots/panel1.png" width="150"/> |
+| <img src="screenshots/mobileVesrion.png" width="300"/> | <img src="screenshots/botDark.png" width="300"/> | <img src="screenshots/panel1.png" width="300"/> |
 
 <details>
 <summary><b>View more screenshots...</b></summary>
 
 | Light Mode | Dark Mode |
 |:---:|:---:|
-| <img src="screenshots/panel1.png" width="150"/> | <img src="screenshots/panelDark.png" width="150"/> |
+| <img src="screenshots/panel1.png" width="250"/> | <img src="screenshots/panelDark.png" width="250"/> |
 | **Admin Panel** | **Admin Panel** |
-| <img src="screenshots/productos.png" width="150"/> | <img src="screenshots/productosDark.png" width="150"/> |
+| <img src="screenshots/productos.png" width="250"/> | <img src="screenshots/productosDark.png" width="250"/> |
 | **Products** | **Products** |
-| <img src="screenshots/pedidos.png" width="150"/> | <img src="screenshots/pedidosDark.png" width="150"/> |
+| <img src="screenshots/pedidos.png" width="250"/> | <img src="screenshots/pedidosDark.png" width="250"/> |
 | **Orders** | **Orders** |
-| <img src="screenshots/ventas.png" width="150"/> | <img src="screenshots/ventasDark.png" width="150"/> |
+| <img src="screenshots/ventas.png" width="250"/> | <img src="screenshots/ventasDark.png" width="250"/> |
 | **Sales** | **Sales** |
 
 </details>
