@@ -9,6 +9,9 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./bot
 
     steps:
       - name: Checkout code
@@ -20,11 +23,7 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        run: |
-          cd bot
-          npm install
+        run: npm install
 
       - name: Run tests
-        run: |
-          cd bot
-          npm test
+        run: npm test
