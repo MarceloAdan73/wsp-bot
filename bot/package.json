@@ -11,6 +11,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "axios": "^1.6.7",
     "jest": "^29.7.0"
   }
 }
