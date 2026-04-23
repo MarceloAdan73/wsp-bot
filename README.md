@@ -68,6 +68,7 @@
 
 - [Description](#description)
 - [Features](#features)
+- [Testing](#testing)
 - [Screenshots](#screenshots)
 - [Architecture](#architecture)
 - [Requirements](#requirements)
@@ -117,6 +118,36 @@ The system allows customers to browse the catalog, inquire about products, and r
 
 ---
 
+## Testing
+
+The project includes a comprehensive CI/CD pipeline with automated tests.
+
+### Running Tests Locally
+
+```bash
+cd bot
+npm test
+```
+
+### CI/CD Pipeline
+
+Every push and pull request automatically runs:
+- Dependency installation
+- Unit tests (12 tests covering core functionality)
+
+View the pipeline status: ![CI](https://github.com/MarceloAdan73/wsp-bot/actions/workflows/ci.yml/badge.svg)
+
+### Test Coverage
+
+Tests cover:
+- Phone number formatting
+- Empty message validation
+- Command extraction
+- Basic command responses (/start, /menu)
+- MessageProcessor utilities
+
+---
+
 ## Architecture
 
 ```
@@ -157,7 +188,7 @@ The system allows customers to browse the catalog, inquire about products, and r
 
 ## Requirements
 
-- **Node.js**: Version 18.0 or higher
+- **Node.js**: Version 20.0 or higher
 - **npm**: Version 8.0 or higher (included with Node.js)
 - **Operating System**: Windows, macOS, or Linux
 
@@ -182,7 +213,8 @@ node seed-products.js
 # Terminal 3 - WhatsApp Bot
 cd bot
 npm install
-npm run dev
+npm test        # Run unit tests
+npm run dev     # Start bot
 
 # Terminal 4 - Admin Panel
 cd admin-panel
