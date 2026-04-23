@@ -13,16 +13,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          path: ./bot
+          path: bot
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          path: ./bot
+          path: bot
 
       - name: Install dependencies
         run: npm install
+        working-directory: bot
 
       - name: Run tests
         run: npm test
+        working-directory: bot
