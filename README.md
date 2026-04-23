@@ -2,6 +2,8 @@
 
 # 🤖 BotWsp Store
 
+![CI](https://github.com/MarceloAdan73/wsp-bot/actions/workflows/ci.yml/badge.svg)
+
 <h1>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="60" height="60" align="center">
   WhatsApp Conversational Bot
