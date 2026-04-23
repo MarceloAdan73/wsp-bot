@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: |
           cd bot
-          npm ci
+          npm install
 
       - name: Run tests
         run: |
