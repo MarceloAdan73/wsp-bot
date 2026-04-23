@@ -1,0 +1,16 @@
+{
+  "name": "wsp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot for clothing store",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "node bot.js",
+    "test": "jest --coverage --passWithNoTests"
+  },
+  "keywords": ["whatsapp", "bot", "ecommerce"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
